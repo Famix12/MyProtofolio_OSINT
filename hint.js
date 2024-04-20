@@ -1,0 +1,1 @@
+const hint = () => {return "maby you need fPGjVh55 in other place ?"}
